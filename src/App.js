@@ -1,10 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
+import Navbar from './Components/Navbars/Navbar';
 
 function App() {
-  return (
-    <div className="App">
-      <h1>Power zone</h1>
+  return (      
+    <div>
+
+      <Navbar></Navbar>
+      
     </div>
   );
 }
