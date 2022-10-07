@@ -1,0 +1,18 @@
+.Power-zone{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    margin: 30px;
+}
+.Power-area{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 20px;
+    margin-top: -20px;
+      
+}
+.Activity-zone{
+    background-color: beige;
+    margin-top: -92px;
+    padding:150px;
+    
+}

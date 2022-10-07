@@ -3,8 +3,9 @@
   {
     "id" : 1,
     "title" :"keep Practicing",
-    "comment" : "practice makes a man perfect",
+    "comment" : "practice makes a man perfect.",
     "age" : 23,
+    "img" :"./images/rock.webp",
     "time" : 20
 
   },
@@ -12,16 +13,18 @@
   {
     "id" : 2,
     "title" :"keep Practicing",
-    "comment" : "practice makes a man perfect",
+    "comment" : "practice makes a man perfect.",
     "age" : 23,
+    "img" :"./images/rock-2.jpeg",
     "time" : 30
 
   },
   {
     "id" : 3,
     "title" :"keep Practicing",
-    "comment" : "practice makes a man perfect",
+    "comment" : "practice makes a man perfect.",
     "age" : 23,
+    "img" : "./images/rock-7.webp",
     "time" : 40
 
   },
@@ -29,8 +32,9 @@
   {
     "id" : 4,
     "title" :"keep Practicing",
-    "comment" : "practice makes a man perfect",
+    "comment" : "practice makes a man perfect.",
     "age" : 23,
+    "img" :"./images/rock-4.webp",
     "time" : 50
 
   },
@@ -38,8 +42,9 @@
   {
     "id" : 5,
     "title" :"keep Practicing",
-    "comment" : "practice makes a man perfect",
+    "comment" : "practice makes a man perfect.",
     "age" : 23,
+    "img" :"./images/rock-5.webp",
     "time" : 15
 
   },
@@ -47,8 +52,9 @@
   {
     "id" : 6,
     "title" :"keep Practicing",
-    "comment" : "practice makes a man perfect",
+    "comment" : "practice makes a man perfect.",
     "age" : 23,
+    "img" :"./images/rock-6.webp",
     "time" : 15
 
   }
