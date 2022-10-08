@@ -5,6 +5,10 @@ const Rock = (props) => {
     
     const {img, title, comment, time, age}= props.power;
    
+    const addToCart = () => {
+        console.log('keep it up')
+    }
+
     return (
         
         <div className='Images-area'>
@@ -13,7 +17,7 @@ const Rock = (props) => {
             <p className='description'><small>{comment}</small></p>
             <p className='description'>age : {age}</p>
             <p className='description'>time : {time}s</p>
-            <button className='btn-list'>Add to list</button>
+            <button onClick={addToCart} className='btn-list'>Add to list</button>
 
         </div>
     );
