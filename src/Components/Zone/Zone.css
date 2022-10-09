@@ -9,6 +9,42 @@
     grid-template-columns: repeat(3, 1fr);
     margin: 20px;
     margin-top: -20px;
+   
     
       
+}
+
+@media only screen and (max-width:768px) {
+    .Power-zone{
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+        
+        
+    }
+
+    .Power-area{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        margin: 20px;
+        margin-top: -20px;
+        
+          
+    }
+}
+@media only screen and (max-width:570px) {
+    .Power-zone{
+        display: grid;
+        grid-template-columns:1fr;
+        
+        
+    }
+
+    .Power-area{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        margin: 20px;
+        margin-top: -20px;
+        
+          
+    }
 }

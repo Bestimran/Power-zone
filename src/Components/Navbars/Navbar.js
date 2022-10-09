@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
         <div>
           <div className='Navbar'>
-          <p><i class="fa-solid fa-dumbbell"></i></p>
+          <p><i className="fa-solid fa-dumbbell"></i></p>
           <h1>P<span>ower</span> Z<span>one</span></h1>
         </div>
 

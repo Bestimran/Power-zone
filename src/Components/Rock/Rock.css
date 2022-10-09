@@ -1,5 +1,5 @@
 .Images-area img{
-     width:250px;
+     max-width:250px;
      height: 250px;
      border-radius: 10px;
      margin: 7px;

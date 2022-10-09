@@ -35,6 +35,7 @@ const Zone = () => {
             </div>
             <div className='Activity-zone'>
                 <Break breakZone={breakZone} ></Break>
+                
                 </div>
         </div>
     );
